@@ -63,3 +63,4 @@ snrd query dex pool connection-0 pool-1
 # List orders
 snrd query dex orders did:sonr:123 connection-0
 ```
+<!-- Auto-update: 2025-10-18T09:22:31.415051 -->
